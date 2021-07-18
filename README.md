@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution URL](https://github.com/Codedzephyr/faq-accordion-card-main)
-- Live Site URL: [live site URL](https://serene-borg-ad184d.netlify.app/)
+- Live Site URL: [live site URL](https://eloquent-aryabhata-ab5c36.netlify.app/)
 
 ## My process
 
