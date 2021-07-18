@@ -83,7 +83,7 @@ main {
   cursor: pointer;
 }
 
-br {
+.break {
   display: block;
 }
 
@@ -216,7 +216,7 @@ br {
     width: 100%;
   }
 
-  br {
+  .break {
     display: none;
   }
 
