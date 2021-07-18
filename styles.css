@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300&display=swap");
+
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -15,6 +17,7 @@
 body {
   max-height: 100%;
   background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+  font-family: "Kumbh Sans", sans-serif;
 }
 
 main {
@@ -41,10 +44,6 @@ main {
   position: relative;
   background-image: url(./images/bg-pattern-desktop.svg),
     url(./images/illustration-woman-online-desktop.svg);
-  /*
-  background-position: 180% 120%, -20% 40%;
-  background-size: 120%, 80%;
-  */
   background-position: 150% 110%, -20% 40%;
   background-size: 120%, 80%, cover;
   background-repeat: no-repeat;
@@ -65,15 +64,18 @@ main {
 .heading {
   color: hsl(237, 12%, 33%);
   padding: 40px 0px 40px 0px;
+  font-weight: 700;
 }
 
 .heading1 {
   color: hsl(240, 6%, 50%);
+  font-weight: 700;
 }
 
 .team {
   text-decoration: none;
   color: hsl(240, 6%, 50%);
+  font-weight: 700;
 }
 
 .heading1:hover {
@@ -86,6 +88,7 @@ main {
   font-family: Kumbh Sans;
   padding: 20px 0px 0px 0px;
   display: none;
+  font-weight: 400;
 }
 
 .line {
@@ -97,6 +100,7 @@ main {
 #maximum {
   text-decoration: none;
   color: hsl(240, 6%, 50%);
+  font-weight: 700;
 }
 
 #file:hover {
@@ -109,11 +113,13 @@ main {
   font-family: Kumbh Sans;
   padding: 20px 0px 0px 0px;
   display: none;
+  font-weight: 400;
 }
 
 #reset {
   text-decoration: none;
   color: hsl(240, 6%, 50%);
+  font-weight: 700;
 }
 
 #password:hover {
@@ -126,6 +132,7 @@ main {
   font-family: Kumbh Sans;
   padding: 20px 0px 0px 0px;
   display: none;
+  font-weight: 400;
 }
 
 .container2 {
@@ -137,6 +144,7 @@ main {
 #cancel {
   text-decoration: none;
   color: hsl(240, 6%, 50%);
+  font-weight: 700;
 }
 
 #subscription:hover {
@@ -149,11 +157,13 @@ main {
   font-family: Kumbh Sans;
   padding: 20px 0px 0px 0px;
   display: none;
+  font-weight: 400;
 }
 
 #additional {
   text-decoration: none;
   color: hsl(240, 6%, 50%);
+  font-weight: 700;
 }
 
 #support:hover {
@@ -166,6 +176,7 @@ main {
   font-family: Kumbh Sans;
   padding: 20px 0px 0px 0px;
   display: none;
+  font-weight: 400;
 }
 
 .image-container {
